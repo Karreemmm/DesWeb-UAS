@@ -35,6 +35,7 @@ $(document).ready(function(){
 				$(cartCount.text(cartCountValue));
 			}
 			);
+			
 		});
 	});
 });
